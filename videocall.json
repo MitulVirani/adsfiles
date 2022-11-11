@@ -15,7 +15,7 @@
    "FB_BannerAdId": "",
    "FB_InterstitialAdId": "",
    "FB_NativeAdId": "", 
-   "FB_NativeBannerAdId": "",
+   "FB_Native_Banner": "",
    "FB_RewardedAdId": "",
    "ChackUpdate": "false"
 }
